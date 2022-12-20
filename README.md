@@ -59,11 +59,11 @@ From Alphabet Soup’s business team, Beks received a CSV containing more than 3
 
 ## An output layer with an activation function is created 
 
-<img width="1440" alt="Screenshot 2022-12-20 at 6 26 42 PM" src="https://user-images.githubusercontent.com/111096384/208786042-02920e4f-ec53-4214-939c-8cf3578d1099.png">
+<img width="764" alt="Screenshot 2022-12-20 at 6 26 17 PM" src="https://user-images.githubusercontent.com/111096384/208786024-4fb171e7-3023-4df8-aceb-f2bbd3285a0c.png">
 
 ## There is an output for the structure of the model 
 
-<img width="1440" alt="Screenshot 2022-12-20 at 6 26 42 PM" src="https://user-images.githubusercontent.com/111096384/208786055-110852f1-f637-4ec8-9feb-cf9b85a67067.png">
+<img width="764" alt="Screenshot 2022-12-20 at 6 26 17 PM" src="https://user-images.githubusercontent.com/111096384/208786024-4fb171e7-3023-4df8-aceb-f2bbd3285a0c.png">
 
 ## There is an output of the model’s loss and accuracy 
 
