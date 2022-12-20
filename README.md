@@ -94,13 +94,33 @@ From Alphabet Soup’s business team, Beks received a CSV containing more than 3
 
 ## Data Preprocessing
 ### What variable(s) are considered the target(s) for your model?
+- IS_SUCCESSFUL
+
 ### What variable(s) are considered to be the features for your model?
+ ORGANIZATION
+- STATUS
+- INCOME_AMT
+- SPECIAL_CONSIDERATIONS
+- ASK_AMT
+- APPLICATION_TYPE
+- AFFILIATION
+- CLASSIFICATION
+- USE_CASE
+
 ### What variable(s) are neither targets nor features, and should be removed from the input data?
+- NAME 
+- EIN 
 
 ## Compiling, Training, and Evaluating the Model
 ### How many neurons, layers, and activation functions did you select for your neural network model, and why?
-### Were you able to achieve the target model performance?
-### What steps did you take to try and increase model performance?
+- hidden_nodes_layer1 = 80
+- hidden_nodes_layer2 = 30
 
-## Summary 
+### Were you able to achieve the target model performance? What steps did you take to try and increase model performance?
+
+The model achieved: 268/268 - 1s - loss: 0.7592 - accuracy: 0.4061 - 1s/epoch - 4ms/step, Loss: 0.7591843008995056, Accuracy: 0.40606415271759033
+
+With several attempts to increase the accuracy including increasing the number of hidden layers the model achieved 268/268 - 1s - loss: 0.7009 - accuracy: 0.4063 - 1s/epoch - 4ms/step, Loss: 0.7009086012840271, Accuracy: 0.40629738569259644
+
+
 
